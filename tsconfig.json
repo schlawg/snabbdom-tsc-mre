@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "${configDir}/dist",
+    "moduleResolution": "Node",
+    "skipLibCheck": true
+  }
+}

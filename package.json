@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "snabbdom": "3.5.1",
+    "typescript": "^5.6.3"
+  },
+  "scripts": {
+    "test": "node make-test.mjs && rm -rf dist && time tsc"
+  }
+}
